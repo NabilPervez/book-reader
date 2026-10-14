@@ -1,0 +1,241 @@
+{
+ "id": "beginning-of-guidance",
+ "title": "Al-Ghazali on Islamic Guidance (Bidāyat al-Hidāya)",
+ "author": "Al-Ghazali, tr. Muhammad Abul Quasem",
+ "format": "pdf",
+ "source": "Beginning-of-Guidance.pdf",
+ "hash": "dcf69bb4dbceb3e9",
+ "chapters": 38,
+ "words": 38405,
+ "addedAt": "2026-10-14T17:25:18+00:00",
+ "toc": [
+  {
+   "id": "001-general-introduction",
+   "number": 1,
+   "title": "General Introduction",
+   "words": 2436
+  },
+  {
+   "id": "002-introduction",
+   "number": 2,
+   "title": "Introduction",
+   "words": 1854
+  },
+  {
+   "id": "003-part-one-acts-of-devotion-preamble",
+   "number": 3,
+   "title": "Part One — Acts of Devotion: Preamble",
+   "words": 501
+  },
+  {
+   "id": "004-praiseworthy-way-of-waking-from-sleep",
+   "number": 4,
+   "title": "Praiseworthy Way of Waking from Sleep",
+   "words": 423
+  },
+  {
+   "id": "005-proper-methods-of-entering-the-lavatory",
+   "number": 5,
+   "title": "Proper Methods of Entering the Lavatory",
+   "words": 615
+  },
+  {
+   "id": "006-rules-of-ablution",
+   "number": 6,
+   "title": "Rules of Ablution",
+   "words": 1888
+  },
+  {
+   "id": "007-rules-of-washing-the-body",
+   "number": 7,
+   "title": "Rules of Washing the Body",
+   "words": 421
+  },
+  {
+   "id": "008-rules-of-cleanliness-with-sand-tayammum",
+   "number": 8,
+   "title": "Rules of Cleanliness with Sand [*Tayammum*]",
+   "words": 382
+  },
+  {
+   "id": "009-good-method-of-going-to-the-mosque",
+   "number": 9,
+   "title": "Good Method of Going to the Mosque",
+   "words": 270
+  },
+  {
+   "id": "010-right-methods-of-entering-the-mosque-and",
+   "number": 10,
+   "title": "Right Methods of Entering the Mosque and Activities inside It",
+   "words": 3032
+  },
+  {
+   "id": "011-most-excellent-processes-of-passing-the",
+   "number": 11,
+   "title": "Most Excellent Processes of Passing the Time",
+   "words": 2048
+  },
+  {
+   "id": "012-the-best-methods-of-preparation-for-ritu",
+   "number": 12,
+   "title": "The Best Methods of Preparation for Ritual Prayers",
+   "words": 1925
+  },
+  {
+   "id": "013-good-manner-of-sleeping",
+   "number": 13,
+   "title": "Good Manner of Sleeping",
+   "words": 1341
+  },
+  {
+   "id": "014-how-to-perform-ritual-prayer",
+   "number": 14,
+   "title": "How to Perform Ritual Prayer",
+   "words": 2212
+  },
+  {
+   "id": "015-methods-of-leading-and-following-a-ritua",
+   "number": 15,
+   "title": "Methods of Leading and Following a Ritual Prayer",
+   "words": 1079
+  },
+  {
+   "id": "016-methods-of-friday-assembly-prayer",
+   "number": 16,
+   "title": "Methods of Friday Assembly Prayer",
+   "words": 1443
+  },
+  {
+   "id": "017-rules-of-fasting",
+   "number": 17,
+   "title": "Rules of Fasting",
+   "words": 1155
+  },
+  {
+   "id": "018-part-two-the-avoidance-of-sins-preamble",
+   "number": 18,
+   "title": "Part Two — The Avoidance of Sins: Preamble",
+   "words": 532
+  },
+  {
+   "id": "019-guarding-against-sins-of-the-eye",
+   "number": 19,
+   "title": "Guarding against Sins of the Eye",
+   "words": 187
+  },
+  {
+   "id": "020-guarding-against-sins-of-the-ear",
+   "number": 20,
+   "title": "Guarding against Sins of the Ear",
+   "words": 237
+  },
+  {
+   "id": "021-guarding-the-tongue-against-lying-breaki",
+   "number": 21,
+   "title": "Guarding the Tongue against Lying, Breaking Promises, Backbiting, Disputing, Self-Glorification, Cursing, Invoking Evil towards Others, and Jesting",
+   "words": 2669
+  },
+  {
+   "id": "022-guarding-against-the-sins-of-the-stomach",
+   "number": 22,
+   "title": "Guarding against the Sins of the Stomach",
+   "words": 758
+  },
+  {
+   "id": "023-guarding-against-sins-of-the-genitals",
+   "number": 23,
+   "title": "Guarding against Sins of the Genitals",
+   "words": 166
+  },
+  {
+   "id": "024-guarding-against-the-sins-of-the-hands",
+   "number": 24,
+   "title": "Guarding against the Sins of the Hands",
+   "words": 289
+  },
+  {
+   "id": "025-guarding-against-sins-of-the-feet",
+   "number": 25,
+   "title": "Guarding against Sins of the Feet",
+   "words": 294
+  },
+  {
+   "id": "026-part-two-the-avoidance-of-sins-conclusio",
+   "number": 26,
+   "title": "Sins of the Body: Conclusion",
+   "words": 720
+  },
+  {
+   "id": "027-part-two-the-avoidance-of-sins-preamble",
+   "number": 27,
+   "title": "Sins of the Soul: Preamble",
+   "words": 449
+  },
+  {
+   "id": "028-envy",
+   "number": 28,
+   "title": "Envy",
+   "words": 443
+  },
+  {
+   "id": "029-ostentation",
+   "number": 29,
+   "title": "Ostentation",
+   "words": 200
+  },
+  {
+   "id": "030-conceit-pride-and-boastfulness",
+   "number": 30,
+   "title": "Conceit, Pride and Boastfulness",
+   "words": 2422
+  },
+  {
+   "id": "031-part-two-the-avoidance-of-sins-conclusio",
+   "number": 31,
+   "title": "Sins of the Soul: Conclusion",
+   "words": 495
+  },
+  {
+   "id": "032-methods-of-companionship-with-god",
+   "number": 32,
+   "title": "Part Three — Association with God and Man: Methods of Companionship with God",
+   "words": 489
+  },
+  {
+   "id": "033-association-with-students",
+   "number": 33,
+   "title": "Association with Students",
+   "words": 335
+  },
+  {
+   "id": "034-association-with-teachers",
+   "number": 34,
+   "title": "Association with Teachers",
+   "words": 271
+  },
+  {
+   "id": "035-association-with-parents",
+   "number": 35,
+   "title": "Association with Parents",
+   "words": 117
+  },
+  {
+   "id": "036-companionship-with-the-unknown-common-me",
+   "number": 36,
+   "title": "Companionship with the Unknown Common Men",
+   "words": 129
+  },
+  {
+   "id": "037-association-with-friends",
+   "number": 37,
+   "title": "Association with Friends",
+   "words": 2085
+  },
+  {
+   "id": "038-association-with-acquaintances",
+   "number": 38,
+   "title": "Association with Acquaintances",
+   "words": 2093
+  }
+ ]
+}

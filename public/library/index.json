@@ -20,5 +20,27 @@
     "chapters": 9,
     "words": 24887,
     "addedAt": "2026-10-14T16:46:19+00:00"
+  },
+  {
+    "id": "beginning-of-guidance",
+    "title": "Al-Ghazali on Islamic Guidance (Bidāyat al-Hidāya)",
+    "author": "Al-Ghazali, tr. Muhammad Abul Quasem",
+    "format": "pdf",
+    "source": "Beginning-of-Guidance.pdf",
+    "hash": "dcf69bb4dbceb3e9",
+    "chapters": 38,
+    "words": 38405,
+    "addedAt": "2026-10-14T17:25:18+00:00"
+  },
+  {
+    "id": "ninety-nine-names-of-god",
+    "title": "The Ninety-Nine Beautiful Names of God (al-Maqṣad al-Asnā)",
+    "author": "Al-Ghazali, tr. Robert Charles Stade",
+    "format": "pdf",
+    "source": "Ghazali-99-Name-of-God.pdf",
+    "hash": "6e2a1999eca6645d",
+    "chapters": 88,
+    "words": 47295,
+    "addedAt": "2026-10-14T17:28:25+00:00"
   }
 ]

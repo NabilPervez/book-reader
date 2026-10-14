@@ -1,0 +1,541 @@
+{
+ "id": "ninety-nine-names-of-god",
+ "title": "The Ninety-Nine Beautiful Names of God (al-Maqṣad al-Asnā)",
+ "author": "Al-Ghazali, tr. Robert Charles Stade",
+ "format": "pdf",
+ "source": "Ghazali-99-Name-of-God.pdf",
+ "hash": "6e2a1999eca6645d",
+ "chapters": 88,
+ "words": 47295,
+ "addedAt": "2026-10-14T17:28:25+00:00",
+ "toc": [
+  {
+   "id": "001-preface",
+   "number": 1,
+   "title": "Preface",
+   "words": 624
+  },
+  {
+   "id": "002-introduction",
+   "number": 2,
+   "title": "Introduction",
+   "words": 1601
+  },
+  {
+   "id": "003-the-translation-concerning-our-intention",
+   "number": 3,
+   "title": "The Translation: Concerning (Our) Intentions and Objectives",
+   "words": 195
+  },
+  {
+   "id": "004-allah",
+   "number": 4,
+   "title": "Allāh",
+   "words": 605
+  },
+  {
+   "id": "005-ar-rahman-ar-rahim-the-merciful-and-comp",
+   "number": 5,
+   "title": "Ar-Raḥmān, Ar-Raḥīm — The Merciful and Compassionate One",
+   "words": 2225
+  },
+  {
+   "id": "006-al-malik-the-king",
+   "number": 6,
+   "title": "Al-Malik — The King",
+   "words": 674
+  },
+  {
+   "id": "007-al-quddus-the-most-holy-one",
+   "number": 7,
+   "title": "Al-Quddūs — The Most Holy One",
+   "words": 825
+  },
+  {
+   "id": "008-as-salam-the-sound-one",
+   "number": 8,
+   "title": "As-Salām — The Sound One",
+   "words": 306
+  },
+  {
+   "id": "009-al-mu-min-the-author-of-safety-and-secur",
+   "number": 9,
+   "title": "Al-Mu'min — The Author of Safety and Security",
+   "words": 868
+  },
+  {
+   "id": "010-al-muhaymin-the-protector-and-guardian",
+   "number": 10,
+   "title": "Al-Muhaymin — The Protector and Guardian",
+   "words": 193
+  },
+  {
+   "id": "011-al-aziz-the-mighty-one",
+   "number": 11,
+   "title": "Al-ʿAzīz",
+   "words": 247
+  },
+  {
+   "id": "012-al-jabbar-the-one-who-compels-his-creatu",
+   "number": 12,
+   "title": "Al-Jabbār — The One Who Compels His Creatures to Do as He Wills",
+   "words": 266
+  },
+  {
+   "id": "013-al-mutakabbir-the-one-supreme-in-pride-a",
+   "number": 13,
+   "title": "Al-Mutakabbir — The One Supreme in Pride and Greatness",
+   "words": 353
+  },
+  {
+   "id": "014-al-khaliq-the-creator-al-bari-the-maker",
+   "number": 14,
+   "title": "Al-Khāliq — The Creator; Al-Bāri' — The Maker; Al-Muṣawwir — The Fashioner",
+   "words": 2250
+  },
+  {
+   "id": "015-al-ghaffar-the-very-forgiving-one",
+   "number": 15,
+   "title": "Al-Ghaffār — The Very Forgiving One",
+   "words": 530
+  },
+  {
+   "id": "016-al-qahhar-the-dominating-one",
+   "number": 16,
+   "title": "Al-Qahhār — The Dominating One",
+   "words": 266
+  },
+  {
+   "id": "017-al-wahhab-the-one-who-gives-freely-witho",
+   "number": 17,
+   "title": "Al-Wahhāb — The One Who Gives Freely, without Thoughts of Compensation",
+   "words": 1518
+  },
+  {
+   "id": "018-ar-razzaq-the-one-who-provides-all-suste",
+   "number": 18,
+   "title": "Ar-Razzāq — The One Who Provides All Sustenance",
+   "words": 556
+  },
+  {
+   "id": "019-al-fattah-he-who-opens-all-things",
+   "number": 19,
+   "title": "Al-Fattāḥ — He Who Opens All Things",
+   "words": 254
+  },
+  {
+   "id": "020-al-alim-the-omniscient-one",
+   "number": 20,
+   "title": "Al-ʿAlīm — The Omniscient One",
+   "words": 549
+  },
+  {
+   "id": "021-al-qabid-al-basit-the-one-who-withholds",
+   "number": 21,
+   "title": "Al-Qābiḍ al-Bāsiṭ — The One Who Withholds and Provides the Means of Subsistence as He Wills",
+   "words": 410
+  },
+  {
+   "id": "022-al-khafid-ar-rafi-the-one-who-abases-the",
+   "number": 22,
+   "title": "Al-Khāfiḍ ar-Rāfiʿ — The One Who Abases the Unbeliever and Exalts the Believer",
+   "words": 305
+  },
+  {
+   "id": "023-al-muizz-al-mudhill-the-one-who-raises-t",
+   "number": 23,
+   "title": "Al-Muʿizz al-Mudhill — The One Who Raises to Honour and Abases",
+   "words": 402
+  },
+  {
+   "id": "024-as-sami-the-all-hearing-one",
+   "number": 24,
+   "title": "As-Samīʿ — The All-Hearing One",
+   "words": 422
+  },
+  {
+   "id": "025-al-basir-the-all-seeing-one",
+   "number": 25,
+   "title": "Al-Baṣīr — The All-Seeing One",
+   "words": 461
+  },
+  {
+   "id": "026-al-hakam-the-arbiter",
+   "number": 26,
+   "title": "Al-Ḥakam — The Arbiter",
+   "words": 2963
+  },
+  {
+   "id": "027-al-adl-the-just-one",
+   "number": 27,
+   "title": "Al-ʿAdl — The Just One",
+   "words": 1740
+  },
+  {
+   "id": "028-al-latif-the-subtle-one",
+   "number": 28,
+   "title": "Al-Laṭīf — The Subtle One",
+   "words": 901
+  },
+  {
+   "id": "029-al-khabir-the-all-cognizant-one",
+   "number": 29,
+   "title": "Al-Khabīr — The All-Cognizant One",
+   "words": 211
+  },
+  {
+   "id": "030-al-halim-the-non-precipitate-and-forbear",
+   "number": 30,
+   "title": "Al-Ḥalīm — The Non-Precipitate and Forbearing One",
+   "words": 119
+  },
+  {
+   "id": "031-al-azim-the-great-one",
+   "number": 31,
+   "title": "Al-ʿAẓīm — The Great One",
+   "words": 493
+  },
+  {
+   "id": "032-al-ghafur-the-most-forgiving-one",
+   "number": 32,
+   "title": "Al-Ghafūr — The Most Forgiving One",
+   "words": 102
+  },
+  {
+   "id": "033-ash-shakur-the-one-who-expresses-thankfu",
+   "number": 33,
+   "title": "Ash-Shakūr — The One Who Expresses Thankfulness by Rewarding Bounteously",
+   "words": 592
+  },
+  {
+   "id": "034-al-ali-the-most-high-one",
+   "number": 34,
+   "title": "Al-ʿAlī — The Most High One",
+   "words": 1390
+  },
+  {
+   "id": "035-al-kabir-the-grand-one",
+   "number": 35,
+   "title": "Al-Kabīr — The Grand One",
+   "words": 347
+  },
+  {
+   "id": "036-al-hafiz-the-preserver",
+   "number": 36,
+   "title": "Al-Ḥafīẓ — The Preserver",
+   "words": 1405
+  },
+  {
+   "id": "037-al-muqit-he-who-is-cognizant-and-capable",
+   "number": 37,
+   "title": "Al-Muqīt — He Who is Cognizant and Capable of Providing His Creation With Everything It Needs",
+   "words": 265
+  },
+  {
+   "id": "038-al-hasib-he-who-satisfies-the-needs-of-a",
+   "number": 38,
+   "title": "Al-Ḥasīb — He Who Satisfies The Needs of All Creation",
+   "words": 958
+  },
+  {
+   "id": "039-al-jalil-the-sublime-one",
+   "number": 39,
+   "title": "Al-Jalīl — The Sublime One",
+   "words": 585
+  },
+  {
+   "id": "040-al-karim-the-selflessly-generous-one",
+   "number": 40,
+   "title": "Al-Karīm — The Selflessly Generous One",
+   "words": 277
+  },
+  {
+   "id": "041-ar-raqib-the-one-who-watches-all",
+   "number": 41,
+   "title": "Ar-Raqīb — The One Who Watches All",
+   "words": 225
+  },
+  {
+   "id": "042-al-mujib-the-one-who-responds-to-every-n",
+   "number": 42,
+   "title": "Al-Mujīb — The One Who Responds to Every Need",
+   "words": 387
+  },
+  {
+   "id": "043-al-wasi-the-one-whose-capacity-is-limitl",
+   "number": 43,
+   "title": "Al-Wāsiʿ — The One Whose Capacity Is Limitless",
+   "words": 310
+  },
+  {
+   "id": "044-al-hakim-the-ultimately-wise-one",
+   "number": 44,
+   "title": "Al-Ḥakīm — The Ultimately Wise One",
+   "words": 696
+  },
+  {
+   "id": "045-al-wadud-the-objectively-loving-one",
+   "number": 45,
+   "title": "Al-Wadūd — The Objectively Loving One",
+   "words": 440
+  },
+  {
+   "id": "046-al-majid-the-most-glorious-one",
+   "number": 46,
+   "title": "Al-Majīd — The Most Glorious One",
+   "words": 75
+  },
+  {
+   "id": "047-al-baith-the-quickener",
+   "number": 47,
+   "title": "Al-Bāʿith — The Quickener",
+   "words": 1482
+  },
+  {
+   "id": "048-ash-shahid-the-one-who-witnesses-and-kno",
+   "number": 48,
+   "title": "Ash-Shahīd — The One Who Witnesses and Knows Everything Manifest",
+   "words": 160
+  },
+  {
+   "id": "049-al-haqq-the-real-one",
+   "number": 49,
+   "title": "Al-Ḥaqq — The Real One",
+   "words": 1004
+  },
+  {
+   "id": "050-al-wakil-the-ultimate-and-faithful-trust",
+   "number": 50,
+   "title": "Al-Wakīl — The Ultimate and Faithful Trustee",
+   "words": 271
+  },
+  {
+   "id": "051-al-qawi-al-matin-the-perfectly-strong-an",
+   "number": 51,
+   "title": "Al-Qawī al-Matīn — The Perfectly Strong and Firm One",
+   "words": 62
+  },
+  {
+   "id": "052-al-wali-the-patron",
+   "number": 52,
+   "title": "Al-Walī — The Patron",
+   "words": 207
+  },
+  {
+   "id": "053-al-hamid-the-ultimately-praiseworthy-one",
+   "number": 53,
+   "title": "Al-Ḥamīd — The Ultimately Praiseworthy One",
+   "words": 204
+  },
+  {
+   "id": "054-al-muhsi-the-absolute-reckoner",
+   "number": 54,
+   "title": "Al-Muḥṣī — The Absolute Reckoner",
+   "words": 104
+  },
+  {
+   "id": "055-al-mubdi-al-muid-the-originator-and-rest",
+   "number": 55,
+   "title": "Al-Mubdiʾ al-Muʿīd — The Originator and Restorer",
+   "words": 144
+  },
+  {
+   "id": "056-al-muhyi-al-mumit-the-one-responsible-fo",
+   "number": 56,
+   "title": "Al-Muḥyī al-Mumīt — The One Responsible For Both Life and Death",
+   "words": 79
+  },
+  {
+   "id": "057-al-hayy-the-absolutely-percipient-one",
+   "number": 57,
+   "title": "Al-Ḥayy — The Absolutely Percipient One",
+   "words": 212
+  },
+  {
+   "id": "058-al-qayyum-the-self-subsisting-one",
+   "number": 58,
+   "title": "Al-Qayyūm — The Self-Subsisting One",
+   "words": 242
+  },
+  {
+   "id": "059-al-wajid-he-who-has-no-needs",
+   "number": 59,
+   "title": "Al-Wājid — He Who Has No Needs",
+   "words": 188
+  },
+  {
+   "id": "060-al-majid-the-glorified-one",
+   "number": 60,
+   "title": "Al-Mājid — The Glorified One",
+   "words": 40
+  },
+  {
+   "id": "061-al-ahad-he-who-is-uniquely-one",
+   "number": 61,
+   "title": "Al-Aḥad — He Who is Uniquely One",
+   "words": 296
+  },
+  {
+   "id": "062-as-samad-he-to-whom-one-turns-in-every-e",
+   "number": 62,
+   "title": "Aṣ-Ṣamad — He To Whom One Turns In Every Exigency",
+   "words": 115
+  },
+  {
+   "id": "063-al-qadir-al-muqtadir-he-who-acts-or-does",
+   "number": 63,
+   "title": "Al-Qādir Al-Muqtadir — He Who Acts, Or Does Not Act, As He Pleases",
+   "words": 287
+  },
+  {
+   "id": "064-al-muqaddim-al-mu-akhkhir-the-one-who-ca",
+   "number": 64,
+   "title": "Al-Muqaddim Al-Mu'akhkhir — The One Who Causes Men To Be Both Near To And Distant From Him",
+   "words": 609
+  },
+  {
+   "id": "065-al-awwal-al-akhir-he-who-is-both-first-a",
+   "number": 65,
+   "title": "Al-Awwal Al-Ākhir — He Who Is Both First and Last",
+   "words": 234
+  },
+  {
+   "id": "066-az-zahir-al-batin-the-manifest-and-hidde",
+   "number": 66,
+   "title": "Aẓ-Ẓāhir Al-Bāṭin — The Manifest and Hidden One",
+   "words": 1323
+  },
+  {
+   "id": "067-al-barr-the-dutiful-one",
+   "number": 67,
+   "title": "Al-Barr — The Dutiful One",
+   "words": 184
+  },
+  {
+   "id": "068-at-tawwab-he-who-constantly-turns-man-to",
+   "number": 68,
+   "title": "At-Tawwāb — He Who Constantly Turns Man To Repentance",
+   "words": 128
+  },
+  {
+   "id": "069-al-muntaqim-the-avenger",
+   "number": 69,
+   "title": "Al-Muntaqim — The Avenger",
+   "words": 221
+  },
+  {
+   "id": "070-al-afu-the-one-who-erases-sin",
+   "number": 70,
+   "title": "Al-ʿAfū — The One Who Erases Sin",
+   "words": 170
+  },
+  {
+   "id": "071-ar-ra-uf-the-very-indulgent-one",
+   "number": 71,
+   "title": "Ar-Ra'ūf — The Very Indulgent One",
+   "words": 59
+  },
+  {
+   "id": "072-malik-al-mulk-the-one-who-has-perfect-po",
+   "number": 72,
+   "title": "Mālik Al-Mulk — The One Who Has Perfect Power Over His Kingdom",
+   "words": 292
+  },
+  {
+   "id": "073-dhu-l-jalal-wa-l-ikram-the-one-possessed",
+   "number": 73,
+   "title": "Dhū-l-Jalāl wa-l-Ikrām — The One Possessed of Majesty and Honour",
+   "words": 83
+  },
+  {
+   "id": "074-al-wali-he-who-has-charge-over-all",
+   "number": 74,
+   "title": "Al-Wālī — He Who Has Charge Over All",
+   "words": 175
+  },
+  {
+   "id": "075-al-mutaali-the-highly-exalted-one",
+   "number": 75,
+   "title": "Al-Mutaʿālī — The Highly-Exalted One",
+   "words": 19
+  },
+  {
+   "id": "076-al-muqsit-the-ultimately-equitable-one",
+   "number": 76,
+   "title": "Al-Muqsiṭ — The Ultimately Equitable One",
+   "words": 654
+  },
+  {
+   "id": "077-al-jami-he-who-combines-all-things-in-th",
+   "number": 77,
+   "title": "Al-Jāmiʿ — He Who Combines All Things in The Universe To Accomplish His Purposes",
+   "words": 420
+  },
+  {
+   "id": "078-al-ghani-al-mughni-the-rich-the-enrichin",
+   "number": 78,
+   "title": "Al-Ghanī Al-Mughnī — The Rich, The Enriching One",
+   "words": 391
+  },
+  {
+   "id": "079-al-mani-he-who-repels-those-things-detri",
+   "number": 79,
+   "title": "Al-Māniʿ — He Who Repels Those Things Detrimental To His Creation",
+   "words": 161
+  },
+  {
+   "id": "080-ad-darr-an-nafi-he-who-is-responsible-fo",
+   "number": 80,
+   "title": "Aḍ-Ḍārr An-Nāfiʿ — He Who Is Responsible For Both Good and Evil",
+   "words": 435
+  },
+  {
+   "id": "081-an-nur-the-light",
+   "number": 81,
+   "title": "An-Nūr — The Light",
+   "words": 226
+  },
+  {
+   "id": "082-al-hadi-the-guide",
+   "number": 82,
+   "title": "Al-Hādī — The Guide",
+   "words": 269
+  },
+  {
+   "id": "083-al-badi-the-matchless-unequalled-one",
+   "number": 83,
+   "title": "Al-Badīʿ — The Matchless, Unequalled One",
+   "words": 190
+  },
+  {
+   "id": "084-al-baqi-the-everlasting-one",
+   "number": 84,
+   "title": "Al-Bāqī — The Everlasting One",
+   "words": 485
+  },
+  {
+   "id": "085-al-warith-the-inheritor",
+   "number": 85,
+   "title": "Al-Wārith — The Inheritor",
+   "words": 274
+  },
+  {
+   "id": "086-ar-rashid-the-absolutely-judicious-guide",
+   "number": 86,
+   "title": "Ar-Rashīd — The Absolutely Judicious Guide",
+   "words": 75
+  },
+  {
+   "id": "087-as-sabur-he-who-times-all-things-perfect",
+   "number": 87,
+   "title": "Aṣ-Ṣabūr — He Who Times All Things Perfectly",
+   "words": 270
+  },
+  {
+   "id": "088-a-conclusion-to-this-part-and-an-apology",
+   "number": 88,
+   "title": "A Conclusion to This Part and an Apology",
+   "words": 3465
+  }
+ ]
+}
