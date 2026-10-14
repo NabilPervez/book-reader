@@ -1,0 +1,67 @@
+{
+ "id": "the-alchemy-of-happiness",
+ "title": "The Alchemy of Happiness",
+ "author": "Al-Ghazali",
+ "format": "pdf",
+ "source": "Ghazali_Alchemy-of-Happiness.pdf",
+ "hash": "560ef91441002002",
+ "chapters": 9,
+ "words": 24887,
+ "addedAt": "2026-10-14T16:46:19+00:00",
+ "toc": [
+  {
+   "id": "001-opening",
+   "number": 1,
+   "title": "Preface and Introduction",
+   "words": 2138
+  },
+  {
+   "id": "002-chapter-i",
+   "number": 2,
+   "title": "I. The Knowledge of Self",
+   "words": 2819
+  },
+  {
+   "id": "003-chapter-ii",
+   "number": 3,
+   "title": "II. The Knowledge of God",
+   "words": 2886
+  },
+  {
+   "id": "004-chapter-iii",
+   "number": 4,
+   "title": "III. The Knowledge of This World",
+   "words": 1724
+  },
+  {
+   "id": "005-chapter-iv",
+   "number": 5,
+   "title": "IV. The Knowledge of the Next World",
+   "words": 3173
+  },
+  {
+   "id": "006-chapter-v",
+   "number": 6,
+   "title": "V. Concerning Music and Dancing as Aids to the Religious Life",
+   "words": 2431
+  },
+  {
+   "id": "007-chapter-vi",
+   "number": 7,
+   "title": "VI. Concerning Self-Examination and the Recollection of God",
+   "words": 2916
+  },
+  {
+   "id": "008-chapter-vii",
+   "number": 8,
+   "title": "VII. Marriage as a Help or Hindrance to the Religious Life",
+   "words": 2891
+  },
+  {
+   "id": "009-chapter-viii",
+   "number": 9,
+   "title": "VIII. The Love of God",
+   "words": 3835
+  }
+ ]
+}

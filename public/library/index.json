@@ -9,5 +9,16 @@
     "chapters": 13,
     "words": 26670,
     "addedAt": "2026-10-14T14:41:12+00:00"
+  },
+  {
+    "id": "the-alchemy-of-happiness",
+    "title": "The Alchemy of Happiness",
+    "author": "Al-Ghazali",
+    "format": "pdf",
+    "source": "Ghazali_Alchemy-of-Happiness.pdf",
+    "hash": "560ef91441002002",
+    "chapters": 9,
+    "words": 24887,
+    "addedAt": "2026-10-14T16:46:19+00:00"
   }
 ]
