@@ -1,0 +1,13 @@
+[
+  {
+    "id": "alice-s-adventures-in-wonderland",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "format": "epub",
+    "source": "alice.epub",
+    "hash": "cc6548c401743280",
+    "chapters": 13,
+    "words": 26670,
+    "addedAt": "2026-10-14T14:41:12+00:00"
+  }
+]

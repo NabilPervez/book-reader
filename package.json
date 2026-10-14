@@ -1,0 +1,23 @@
+{
+  "name": "book-reader",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "import": "python3 scripts/import_books.py",
+    "books": "python3 scripts/import_books.py --list",
+    "setup": "npm install && pip3 install -r requirements.txt"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.3.1",
+    "vite-plugin-pwa": "^0.21.2"
+  }
+}

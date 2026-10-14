@@ -1,0 +1,91 @@
+{
+ "id": "alice-s-adventures-in-wonderland",
+ "title": "Alice's Adventures in Wonderland",
+ "author": "Lewis Carroll",
+ "format": "epub",
+ "source": "alice.epub",
+ "hash": "cc6548c401743280",
+ "chapters": 13,
+ "words": 26670,
+ "addedAt": "2026-10-14T14:41:12+00:00",
+ "toc": [
+  {
+   "id": "001-opening",
+   "number": 1,
+   "title": "Opening",
+   "words": 137
+  },
+  {
+   "id": "002-chapter-i-down-the-rabbit-hole",
+   "number": 2,
+   "title": "Chapter I. Down the Rabbit-Hole",
+   "words": 2149
+  },
+  {
+   "id": "003-chapter-ii-the-pool-of-tears",
+   "number": 3,
+   "title": "Chapter II. The Pool of Tears",
+   "words": 2093
+  },
+  {
+   "id": "004-chapter-iii-a-caucus-race-and-a-long-tal",
+   "number": 4,
+   "title": "Chapter III. A Caucus-Race and a Long Tale",
+   "words": 1694
+  },
+  {
+   "id": "005-chapter-iv-the-rabbit-sends-in-a-little",
+   "number": 5,
+   "title": "Chapter IV. The Rabbit Sends in a Little Bill",
+   "words": 2607
+  },
+  {
+   "id": "006-chapter-v-advice-from-a-caterpillar",
+   "number": 6,
+   "title": "Chapter V. Advice from a Caterpillar",
+   "words": 2160
+  },
+  {
+   "id": "007-chapter-vi-pig-and-pepper",
+   "number": 7,
+   "title": "Chapter VI. Pig and Pepper",
+   "words": 2588
+  },
+  {
+   "id": "008-chapter-vii-a-mad-tea-party",
+   "number": 8,
+   "title": "Chapter VII. A Mad Tea-Party",
+   "words": 2282
+  },
+  {
+   "id": "009-chapter-viii-the-queens-croquet-ground",
+   "number": 9,
+   "title": "Chapter VIII. The Queen’s Croquet-Ground",
+   "words": 2482
+  },
+  {
+   "id": "010-chapter-ix-the-mock-turtles-story",
+   "number": 10,
+   "title": "Chapter IX. The Mock Turtle’s Story",
+   "words": 2266
+  },
+  {
+   "id": "011-chapter-x-the-lobster-quadrille",
+   "number": 11,
+   "title": "Chapter X. The Lobster Quadrille",
+   "words": 2025
+  },
+  {
+   "id": "012-chapter-xi-who-stole-the-tarts",
+   "number": 12,
+   "title": "Chapter XI. Who Stole the Tarts?",
+   "words": 1872
+  },
+  {
+   "id": "013-chapter-xii-alices-evidence",
+   "number": 13,
+   "title": "Chapter XII. Alice’s Evidence",
+   "words": 2315
+  }
+ ]
+}
