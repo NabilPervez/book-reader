@@ -1,0 +1,766 @@
+{
+  "id": "001-front-matter",
+  "title": "Front matter",
+  "blocks": [
+    {
+      "t": "h3",
+      "text": "THE CLEAR QURAN",
+      "page": 2
+    },
+    {
+      "t": "p",
+      "text": "A Thematic English Translation",
+      "page": 3
+    },
+    {
+      "t": "h3",
+      "text": "Translator",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Dr. Mustafa Khattab",
+      "page": 3
+    },
+    {
+      "t": "h3",
+      "text": "Chief Editors",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Abu-Isa Webb",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Aaron Wannamaker",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Hisham Sharif",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "In the Name of Allah—",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "the Most Compassionate, Most Merciful",
+      "page": 3
+    },
+    {
+      "t": "h3",
+      "text": "_______________________________________",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "© Copyright 2015, Dr. Mustafa Khattab",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "All Rights Reserved.",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Email: info@mustafakhattab.org",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Translation approved by Al-Azhar (Egypt)",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "and endorsed by ISNA and the Canadian Council of Imams",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Website: www.theclearquran.com",
+      "page": 3
+    },
+    {
+      "t": "h3",
+      "text": "_______________________________________",
+      "page": 3
+    },
+    {
+      "t": "p",
+      "text": "Use the Table of Contents to navigate through this e-book. Click the superscripted numbers in the translation to access the hyperlinked endnotes.",
+      "page": 3
+    },
+    {
+      "t": "quote",
+      "text": "***",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "QURANIC THEMES",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "As pointed out in the Table of Contents and the Thematic Index, the Quran has three main themes:",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "۩ Doctrine (e.g., acts of worship, human interactions, family relations, and business transactions), which focuses",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "mainly on a Muslim’s relationship with Allah, other people, and the rest of Allah’s creation.",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "◙ Stories (e.g., the story of Moses, Noah, and Ṣâliḥ), which served two purposes: to reassure the Prophet’s heart, as he",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "was met with rejection in Mecca, and as cautionary tales for the pagans ( *see* 11:120-123). Other stories (e.g., Joseph and",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "Job) focus on moral lessons.",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "☼ The Unseen (e.g., the belief in Allah and His qualities, as well as angels, resurrection, judgment, etc.), which",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "reaffirms one’s faith in the divine through one’s heart, not eyes.",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "Some chapters contain more than one theme, and some individual verses may touch on a theme not presented here, but the following table represents the general themes covered in the body of the text.",
+      "page": 4
+    },
+    {
+      "t": "quote",
+      "text": "***",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "TABLE OF CONTENTS",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "ABOUT THE TRANSLATOR ACKNOWLEGMENTS",
+      "page": 4
+    },
+    {
+      "t": "p",
+      "text": "TRANSLATOR’S NOTES",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "INTRODUCTION",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "STYLISTIC FEATURES OF THE QURAN",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "NOTES ON TRANSLATION",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "TRANSLITERATION GUIDE",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "MAP OF ARABIA AND AREA IN THE 7th CENTURY",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "THE CLEAR QURAN",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 1. The Opening ( *Al*- *Fâtiḥah*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 2. The Cow ( *Al-Baqarah*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 3. The Family of ’Imrân ( *Âli-’Imrân*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 4. Women ( *An-Nisâ*')",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 5. The Spread Table ( *Al-Mâ*' *idah*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 6. Cattle ( *Al-An’âm*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 7. The Heights ( *Al-A’râf*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 8. Spoils of War ( *Al-Anfâl*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 9. Repentance ( *At-Tawbah*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 10. Jonah ( *Yûnus*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 11. Hûd ( *Hûd*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 12. Joseph ( *Yûsuf*)",
+      "page": 5
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 13. Thunder ( *Ar-Ra’d*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 14. Abraham ( *Ibrâhîm*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 15. The Stone Valley ( *Al-Ḥijr*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 16. Bees ( *An-Naḥl*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 17. The Night Journey ( *Al-Isrâ*')",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 18. The Cave ( *Al-Kahf*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 19. Mary ( *Mariam*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 20. Ṭâ-Hâ ( *Ṭâ-Hâ*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 21. The Prophets ( *Al-Anbiyâ*')",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 22. The Pilgrimage ( *Al-Ḥajj*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 23. The Believers ( *Al-Mu*' *minûn*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 24. The Light ( *An-Nûr*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 25. The Standard ( *Al-Furqân*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 26. The Poets ( *Ash-Shu’arâ*')",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 27. The Ants ( *An-Naml*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 28. The Whole Story ( *Al-Qaṣaṣ*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 29. The Spider ( *Al-’Ankabût*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 30. The Romans ( *Ar-Rûm*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 31. Luqmân ( *Luqmân*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 32. The Prostration ( *As-Sajdah*)",
+      "page": 6
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 33. The Enemy Alliance *(Al-Aḥzâb)*",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 34. Sheba *(Saba*' *)*",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 35. The Originator ( *Fâṭir*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 36. Yâ-Sĩn ( *Yâ-Sĩn*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 37. Those ˹Angels˺ Lined up in Ranks ( *Aṣ-Ṣâffât*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 38. Ṣãd ( *Ṣãd*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 39. The ˹Successive˺ Groups ( *Az-Zumar*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 40. The Forgiver *(Ghâfir)*",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 41. ˹Verses˺ Perfectly Explained ( *Fuṣṣilat*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 42. Consultation ( *Ash-Shûra*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 43. Ornaments ( *Az-Zukhruf*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 44. The Haze ( *Ad-Dukhân*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 45. The Kneeling ( *Al-Jâthiyah*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 46. The Sand-Hills ( *Al-Aḥqâf*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 47. Muḥammad ( *Muḥammad*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 48. The Triumph ( *Al-Fatḥ*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 49. The Private Quarters ( *Al-Ḥujurât*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 50. Qãf ( *Qãf*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 51. Scattering Winds ( *Aⱬ-Ⱬâriyât*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 52. Mount Ṭûr ( *Aṭ-Ṭûr*)",
+      "page": 7
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 53. The Stars ( *An-Najm*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 54. The Moon ( *Al-Qamar*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 55. The Most Compassionate ( *Ar-Raḥmân*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 56. The Inevitable Event ( *Al-Wâqi’ah*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 57. Iron ( *Al-Ḥadîd*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 58. The Pleading Woman ( *Al-Mujâdilah*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 59. The Banishment ( *Al-Ḥashr*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 60. The Test of Faith ( *Al-Mumtaḥanah*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 61. The ˹Solid˺ Ranks ( *Aṣ-Ṣaff*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 62. Friday Congregation ( *Al-Jumu’ah*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 63. The Hypocrites ( *Al-Munâfiqûn*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 64. Mutual Loss and Gain ( *At-Taghâbun*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 65. Divorce ( *Aṭ-Ṭalâq*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 66. The Prohibition ( *At-Taḥrîm*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 67. All Authority ( *Al-Mulk*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 68. The Pen ( *Al-Qalam*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 69. The Inevitable Hour ( *Al-Ḥâqqah*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 70. Pathways of ˹Heavenly˺ Ascent ( *Al-Ma’ârij*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 71. Noah ( *Nûḥ*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 72. The Jinn ( *Al-Jinn*)",
+      "page": 8
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 73. The Wrapped One ( *Al-Muzzammil*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 74. The One Covered up ( *Al-Muddaththir*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 75. The ˹Rising for˺ Judgment ( *Al-Qiyamah*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 76. Humans ( *Al-Insân*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 77. Those ˹Winds˺ Sent Forth ( *Al-Mursalât*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 78. The Momentous News ( *An-Naba*')",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 79. Those ˹Angels˺ Stripping out ˹Souls˺ ( *An-Nâzi’ât*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 80. He Frowned ( *’Abasa*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 81. Putting out ˹the Sun˺ ( *At-Takwîr*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 82. The ˹Sky˺ Splitting Open ( *Al-Infiṭâr*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 83. Defrauders ( *Al-Muṭaffifîn*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 84. The ˹Sky˺ Bursting Open ( *Al-Inshiqâq*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 85. Constellations ( *Al-Burûj*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 86. The Nightly Star ( *Aṭ-Ṭâriq*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 87. The Most High ( *Al-A’la*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 88. The Overwhelming Event ( *Al-Ghâshiyah*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 89. Dawn ( *Al-Fajr*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 90. The City ( *Al-Balad*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 91. The Sun ( *Ash-Shams*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 92. The Night ( *Al-Layl*)",
+      "page": 9
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 93. The Morning Sunlight ( *Aḍ-Ḍuḥa*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 94. Uplifting the Heart ( *Ash-Sharḥ*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 95. The Fig ( *At-Tîn*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 96. The Clinging Clot ˹of Blood˺ ( *Al-’Alaq*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 97. The Night of Glory *(Al-Qadr)*",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 98. The Clear Proof ( *Al-Bayyinah*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 99. The ˹Ultimate˺ Quake ( *Az-Zalzalah*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 100. The Galloping ˹Horses˺ ( *Al-*’ *Ȃdiyât*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 101. The Striking Disaster ( *Al-Qâri’ah*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 102. Competition for More ˹Gains˺ ( *At-Takâthur*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 103. The ˹Passage of˺ Time ( *Al-’Aṣr*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 104. The Backbiters ( *Al-Humazah*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 105. The Elephant ( *Al-Fîl*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 106. ˹The People of˺ Quraysh ( *Quraysh*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 107. ˹Simplest˺ Aid ( *Al-Mâ’ûn*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 108. Abundant Goodness ( *Al-Kawthar*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 109. The Disbelievers ( *Al-Kâfirûn*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 110. The ˹Ultimate˺ Help ( *An-Naṣr*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 111. The Palm-Fibre Rope ( *Al-Masad*)",
+      "page": 10
+    },
+    {
+      "t": "p",
+      "text": "۩ ◙ ☼ 112. Purity of Faith ( *Al-Ikhlâṣ*)",
+      "page": 10
+    }
+  ]
+}

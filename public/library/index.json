@@ -42,5 +42,16 @@
     "chapters": 88,
     "words": 47295,
     "addedAt": "2026-10-14T17:28:25+00:00"
+  },
+  {
+    "id": "the-clear-quran",
+    "title": "The Clear Quran",
+    "author": "Dr. Mustafa Khattab",
+    "format": "pdf",
+    "source": "the-clear-quran.pdf",
+    "hash": "2a90c81ed33d3aa4",
+    "chapters": 126,
+    "words": 220387,
+    "addedAt": "2026-10-16T02:42:02+00:00"
   }
 ]

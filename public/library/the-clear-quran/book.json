@@ -1,0 +1,769 @@
+{
+  "id": "the-clear-quran",
+  "title": "The Clear Quran",
+  "author": "Dr. Mustafa Khattab",
+  "format": "pdf",
+  "source": "the-clear-quran.pdf",
+  "hash": "2a90c81ed33d3aa4",
+  "chapters": 126,
+  "words": 220387,
+  "addedAt": "2026-10-16T02:42:02+00:00",
+  "toc": [
+    {
+      "id": "001-front-matter",
+      "number": 1,
+      "title": "Front matter",
+      "words": 1213
+    },
+    {
+      "id": "002-acknowlegments",
+      "number": 2,
+      "title": "ACKNOWLEGMENTS",
+      "words": 15
+    },
+    {
+      "id": "003-thematic-indext",
+      "number": 3,
+      "title": "THEMATIC INDEXT",
+      "words": 549
+    },
+    {
+      "id": "004-translators-notes",
+      "number": 4,
+      "title": "TRANSLATOR’S NOTES",
+      "words": 444
+    },
+    {
+      "id": "005-introduction",
+      "number": 5,
+      "title": "INTRODUCTION",
+      "words": 1755
+    },
+    {
+      "id": "006-stylistic-features-of-the-quran",
+      "number": 6,
+      "title": "STYLISTIC FEATURES OF THE QURAN",
+      "words": 2399
+    },
+    {
+      "id": "007-notes-on-translation",
+      "number": 7,
+      "title": "NOTES ON TRANSLATION",
+      "words": 488
+    },
+    {
+      "id": "008-transliteration-guide",
+      "number": 8,
+      "title": "TRANSLITERATION GUIDE",
+      "words": 196
+    },
+    {
+      "id": "009-1-the-opening-al-f-ti-ah",
+      "number": 9,
+      "title": "1. The Opening (Al-Fâtiḥah)",
+      "words": 164
+    },
+    {
+      "id": "010-2-the-cow-al-baqarah",
+      "number": 10,
+      "title": "2. The Cow (Al-Baqarah)",
+      "words": 12127
+    },
+    {
+      "id": "011-3-the-family-of-imr-n-li-imr-n",
+      "number": 11,
+      "title": "3. The Family of ’Imrân (Âli-’Imrân)",
+      "words": 6943
+    },
+    {
+      "id": "012-4-women-an-nis",
+      "number": 12,
+      "title": "4. Women (An-Nisâ')",
+      "words": 7089
+    },
+    {
+      "id": "013-5-the-spread-table-al-m-idah",
+      "number": 13,
+      "title": "5. The Spread Table (Al-Mâ'idah)",
+      "words": 5446
+    },
+    {
+      "id": "014-6-cattle-al-an-m",
+      "number": 14,
+      "title": "6. Cattle (Al-An’âm)",
+      "words": 6236
+    },
+    {
+      "id": "015-7-the-heights-al-ar-f",
+      "number": 15,
+      "title": "7. The Heights (Al-A’râf)",
+      "words": 6686
+    },
+    {
+      "id": "016-8-spoils-of-war-al-anf-l",
+      "number": 16,
+      "title": "8. Spoils of War (Al-Anfâl)",
+      "words": 2575
+    },
+    {
+      "id": "017-9-repentance-at-tawbah",
+      "number": 17,
+      "title": "9. Repentance (At-Tawbah)",
+      "words": 5177
+    },
+    {
+      "id": "018-10-jonah-y-nus",
+      "number": 18,
+      "title": "10. Jonah (Yûnus)",
+      "words": 3756
+    },
+    {
+      "id": "019-11-h-d-h-d",
+      "number": 19,
+      "title": "11. Hûd (Hûd)",
+      "words": 4045
+    },
+    {
+      "id": "020-12-joseph-y-suf",
+      "number": 20,
+      "title": "12. Joseph (Yûsuf)",
+      "words": 3879
+    },
+    {
+      "id": "021-13-thunder-ar-rad",
+      "number": 21,
+      "title": "13. Thunder (Ar-Ra’d)",
+      "words": 1835
+    },
+    {
+      "id": "022-14-abraham-ibr-h-m",
+      "number": 22,
+      "title": "14. Abraham (Ibrâhîm)",
+      "words": 1781
+    },
+    {
+      "id": "023-15-the-stone-valley-al-ijr",
+      "number": 23,
+      "title": "15. The Stone Valley (Al-Ḥijr)",
+      "words": 1484
+    },
+    {
+      "id": "024-16-bees-an-na-l",
+      "number": 24,
+      "title": "16. Bees (An-Naḥl)",
+      "words": 3907
+    },
+    {
+      "id": "025-17-the-night-journey-al-isr",
+      "number": 25,
+      "title": "17. The Night Journey (Al-Isrâ')",
+      "words": 3468
+    },
+    {
+      "id": "026-18-the-cave-al-kahf",
+      "number": 26,
+      "title": "18. The Cave (Al-Kahf)",
+      "words": 3527
+    },
+    {
+      "id": "027-19-mary-mariam",
+      "number": 27,
+      "title": "19. Mary (Mariam)",
+      "words": 2211
+    },
+    {
+      "id": "028-20-h-h",
+      "number": 28,
+      "title": "20. Ṭâ-Hâ (Ṭâ-Hâ)",
+      "words": 3096
+    },
+    {
+      "id": "029-21-the-prophets-al-anbiy",
+      "number": 29,
+      "title": "21. The Prophets (Al-Anbiyâ')",
+      "words": 2588
+    },
+    {
+      "id": "030-22-the-pilgrimage-al-ajj",
+      "number": 30,
+      "title": "22. The Pilgrimage (Al-Ḥajj)",
+      "words": 2666
+    },
+    {
+      "id": "031-23-the-believers-al-mumin-n",
+      "number": 31,
+      "title": "23. The Believers (Al-Mu'minûn)",
+      "words": 2263
+    },
+    {
+      "id": "032-24-the-light-an-n-r",
+      "number": 32,
+      "title": "24. The Light (An-Nûr)",
+      "words": 2651
+    },
+    {
+      "id": "033-25-the-standard-al-furq-n",
+      "number": 33,
+      "title": "25. The Standard (Al-Furqân)",
+      "words": 2083
+    },
+    {
+      "id": "034-26-the-poets-ash-shuar",
+      "number": 34,
+      "title": "26. The Poets (Ash-Shu’arâ')",
+      "words": 2845
+    },
+    {
+      "id": "035-27-the-ants-an-naml",
+      "number": 35,
+      "title": "27. The Ants (An-Naml)",
+      "words": 2555
+    },
+    {
+      "id": "036-28-the-whole-story-al-qa-a",
+      "number": 36,
+      "title": "28. The Whole Story (Al-Qaṣaṣ)",
+      "words": 3152
+    },
+    {
+      "id": "037-29-the-spider-al-ankab-t",
+      "number": 37,
+      "title": "29. The Spider (Al-’Ankabût)",
+      "words": 2171
+    },
+    {
+      "id": "038-30-the-romans-ar-r-m",
+      "number": 38,
+      "title": "30. The Romans (Ar-Rûm)",
+      "words": 1947
+    },
+    {
+      "id": "039-31-luqm-n-luqm-n",
+      "number": 39,
+      "title": "31. Luqmân (Luqmân)",
+      "words": 1188
+    },
+    {
+      "id": "040-32-the-prostration-as-sajdah",
+      "number": 40,
+      "title": "32. The Prostration (As-Sajdah)",
+      "words": 870
+    },
+    {
+      "id": "041-33-the-enemy-alliance-al-a-z-b",
+      "number": 41,
+      "title": "33. The Enemy Alliance (Al-Aḥzâb)",
+      "words": 2771
+    },
+    {
+      "id": "042-34-sheba-saba",
+      "number": 42,
+      "title": "34. Sheba (Saba')",
+      "words": 1928
+    },
+    {
+      "id": "043-35-the-originator-f-ir",
+      "number": 43,
+      "title": "35. The Originator (Fâṭir)",
+      "words": 1687
+    },
+    {
+      "id": "044-36-y-s-n-y-s-n",
+      "number": 44,
+      "title": "36. Yâ-Sĩn (Yâ-Sĩn)",
+      "words": 1653
+    },
+    {
+      "id": "045-37-those-angels-lined-up-in-ranks-a-ff-t",
+      "number": 45,
+      "title": "37. Those ˹Angels˺ Lined up in Ranks (Aṣ-Ṣâffât)",
+      "words": 2168
+    },
+    {
+      "id": "046-38-d-d",
+      "number": 46,
+      "title": "38. Ṣãd (Ṣãd)",
+      "words": 1757
+    },
+    {
+      "id": "047-39-the-successive-groups-az-zumar",
+      "number": 47,
+      "title": "39. The ˹Successive˺ Groups (Az-Zumar)",
+      "words": 2602
+    },
+    {
+      "id": "048-40-the-forgiver-gh-fir",
+      "number": 48,
+      "title": "40. The Forgiver (Ghâfir)",
+      "words": 2603
+    },
+    {
+      "id": "049-41-verses-perfectly-explained-fu-ilat",
+      "number": 49,
+      "title": "41. ˹Verses˺ Perfectly Explained (Fuṣṣilat)",
+      "words": 1797
+    },
+    {
+      "id": "050-42-consultation-ash-sh-ra",
+      "number": 50,
+      "title": "42. Consultation (Ash-Shûra)",
+      "words": 1825
+    },
+    {
+      "id": "051-43-ornaments-az-zukhruf",
+      "number": 51,
+      "title": "43. Ornaments (Az-Zukhruf)",
+      "words": 1986
+    },
+    {
+      "id": "052-44-the-haze-ad-dukh-n",
+      "number": 52,
+      "title": "44. The Haze (Ad-Dukhân)",
+      "words": 863
+    },
+    {
+      "id": "053-45-the-kneeling-al-j-thiyah",
+      "number": 53,
+      "title": "45. The Kneeling (Al-Jâthiyah)",
+      "words": 1132
+    },
+    {
+      "id": "054-46-the-sand-hills-al-a-q-f",
+      "number": 54,
+      "title": "46. The Sand-Hills (Al-Aḥqâf)",
+      "words": 1443
+    },
+    {
+      "id": "055-47-mu-ammad-mu-ammad",
+      "number": 55,
+      "title": "47. Muḥammad (Muḥammad)",
+      "words": 1259
+    },
+    {
+      "id": "056-48-the-triumph-al-fat",
+      "number": 56,
+      "title": "48. The Triumph (Al-Fatḥ)",
+      "words": 1491
+    },
+    {
+      "id": "057-49-the-private-quarters-al-ujur-t",
+      "number": 57,
+      "title": "49. The Private Quarters (Al-Ḥujurât)",
+      "words": 798
+    },
+    {
+      "id": "058-50-q-f-q-f",
+      "number": 58,
+      "title": "50. Qãf (Qãf)",
+      "words": 943
+    },
+    {
+      "id": "059-51-scattering-winds-a-riy-t",
+      "number": 59,
+      "title": "51. Scattering Winds (Aⱬ-Ⱬâriyât)",
+      "words": 968
+    },
+    {
+      "id": "060-52-mount-r-a-r",
+      "number": 60,
+      "title": "52. Mount Ṭûr (Aṭ-Ṭûr)",
+      "words": 844
+    },
+    {
+      "id": "061-53-the-stars-an-najm",
+      "number": 61,
+      "title": "53. The Stars (An-Najm)",
+      "words": 929
+    },
+    {
+      "id": "062-54-the-moon-al-qamar",
+      "number": 62,
+      "title": "54. The Moon (Al-Qamar)",
+      "words": 915
+    },
+    {
+      "id": "063-55-the-most-compassionate-ar-ra-m-n",
+      "number": 63,
+      "title": "55. The Most Compassionate (Ar-Raḥmân)",
+      "words": 976
+    },
+    {
+      "id": "064-56-the-inevitable-event-al-w-qiah",
+      "number": 64,
+      "title": "56. The Inevitable Event (Al-Wâqi’ah)",
+      "words": 992
+    },
+    {
+      "id": "065-57-iron-al-ad-d",
+      "number": 65,
+      "title": "57. Iron (Al-Ḥadîd)",
+      "words": 1375
+    },
+    {
+      "id": "066-58-the-pleading-woman-al-muj-dilah",
+      "number": 66,
+      "title": "58. The Pleading Woman (Al-Mujâdilah)",
+      "words": 1139
+    },
+    {
+      "id": "067-59-the-banishment-al-ashr",
+      "number": 67,
+      "title": "59. The Banishment (Al-Ḥashr)",
+      "words": 1055
+    },
+    {
+      "id": "068-60-the-test-of-faith-al-mumta-anah",
+      "number": 68,
+      "title": "60. The Test of Faith (Al-Mumtaḥanah)",
+      "words": 941
+    },
+    {
+      "id": "069-61-the-solid-ranks-a-aff",
+      "number": 69,
+      "title": "61. The ˹Solid˺ Ranks (Aṣ-Ṣaff)",
+      "words": 529
+    },
+    {
+      "id": "070-62-friday-congregation-al-jumuah",
+      "number": 70,
+      "title": "62. Friday Congregation (Al-Jumu’ah)",
+      "words": 498
+    },
+    {
+      "id": "071-63-the-hypocrites-al-mun-fiq-n",
+      "number": 71,
+      "title": "63. The Hypocrites (Al-Munâfiqûn)",
+      "words": 463
+    },
+    {
+      "id": "072-64-mutual-loss-and-gain-at-tagh-bun",
+      "number": 72,
+      "title": "64. Mutual Loss and Gain (At-Taghâbun)",
+      "words": 659
+    },
+    {
+      "id": "073-65-divorce-a-al-q",
+      "number": 73,
+      "title": "65. Divorce (Aṭ-Ṭalâq)",
+      "words": 664
+    },
+    {
+      "id": "074-66-the-prohibition-at-ta-r-m",
+      "number": 74,
+      "title": "66. The Prohibition (At-Taḥrîm)",
+      "words": 754
+    },
+    {
+      "id": "075-67-all-authority-al-mulk",
+      "number": 75,
+      "title": "67. All Authority (Al-Mulk)",
+      "words": 818
+    },
+    {
+      "id": "076-68-the-pen-al-qalam",
+      "number": 76,
+      "title": "68. The Pen (Al-Qalam)",
+      "words": 792
+    },
+    {
+      "id": "077-69-the-inevitable-hour-al-qqah",
+      "number": 77,
+      "title": "69. The Inevitable Hour (Al-Ḥâqqah)",
+      "words": 684
+    },
+    {
+      "id": "078-70-pathways-of-heavenly-ascent-al-ma-rij",
+      "number": 78,
+      "title": "70. Pathways of ˹Heavenly˺ Ascent (Al-Ma’ârij)",
+      "words": 570
+    },
+    {
+      "id": "079-71-noah-n",
+      "number": 79,
+      "title": "71. Noah (Nûḥ)",
+      "words": 551
+    },
+    {
+      "id": "080-72-the-jinn-al-jinn",
+      "number": 80,
+      "title": "72. The Jinn (Al-Jinn)",
+      "words": 680
+    },
+    {
+      "id": "081-73-the-wrapped-one-al-muzzammil",
+      "number": 81,
+      "title": "73. The Wrapped One (Al-Muzzammil)",
+      "words": 503
+    },
+    {
+      "id": "082-74-the-one-covered-up-al-muddaththir",
+      "number": 82,
+      "title": "74. The One Covered up (Al-Muddaththir)",
+      "words": 693
+    },
+    {
+      "id": "083-75-the-rising-for-judgment-al-qiyamah",
+      "number": 83,
+      "title": "75. The ˹Rising for˺ Judgment (Al-Qiyamah)",
+      "words": 455
+    },
+    {
+      "id": "084-76-humans-al-ins-n",
+      "number": 84,
+      "title": "76. Humans (Al-Insân)",
+      "words": 606
+    },
+    {
+      "id": "085-77-those-winds-sent-forth-al-mursal-t",
+      "number": 85,
+      "title": "77. Those ˹Winds˺ Sent Forth (Al-Mursalât)",
+      "words": 527
+    },
+    {
+      "id": "086-78-the-momentous-news-an-naba",
+      "number": 86,
+      "title": "78. The Momentous News (An-Naba')",
+      "words": 442
+    },
+    {
+      "id": "087-79-those-angels-stripping-out-souls-an-n",
+      "number": 87,
+      "title": "79. Those ˹Angels˺ Stripping out ˹Souls˺ (An-Nâzi’ât)",
+      "words": 508
+    },
+    {
+      "id": "088-80-he-frowned-abasa",
+      "number": 88,
+      "title": "80. He Frowned (’Abasa)",
+      "words": 554
+    },
+    {
+      "id": "089-81-putting-out-the-sun-at-takw-r",
+      "number": 89,
+      "title": "81. Putting out ˹the Sun˺ (At-Takwîr)",
+      "words": 345
+    },
+    {
+      "id": "090-82-the-sky-splitting-open-al-infi-r",
+      "number": 90,
+      "title": "82. The ˹Sky˺ Splitting Open (Al-Infiṭâr)",
+      "words": 234
+    },
+    {
+      "id": "091-83-defrauders-al-mu-affif-n",
+      "number": 91,
+      "title": "83. Defrauders (Al-Muṭaffifîn)",
+      "words": 425
+    },
+    {
+      "id": "092-84-the-sky-bursting-open-al-inshiq-q",
+      "number": 92,
+      "title": "84. The ˹Sky˺ Bursting Open (Al-Inshiqâq)",
+      "words": 347
+    },
+    {
+      "id": "093-85-constellations-al-bur-j",
+      "number": 93,
+      "title": "85. Constellations (Al-Burûj)",
+      "words": 310
+    },
+    {
+      "id": "094-86-the-nightly-star-a-riq",
+      "number": 94,
+      "title": "86. The Nightly Star (Aṭ-Ṭâriq)",
+      "words": 219
+    },
+    {
+      "id": "095-87-the-most-high-al-ala",
+      "number": 95,
+      "title": "87. The Most High (Al-A’la)",
+      "words": 280
+    },
+    {
+      "id": "096-88-the-overwhelming-event-al-gh-shiyah",
+      "number": 96,
+      "title": "88. The Overwhelming Event (Al-Ghâshiyah)",
+      "words": 269
+    },
+    {
+      "id": "097-89-dawn-al-fajr",
+      "number": 97,
+      "title": "89. Dawn (Al-Fajr)",
+      "words": 387
+    },
+    {
+      "id": "098-90-the-city-al-balad",
+      "number": 98,
+      "title": "90. The City (Al-Balad)",
+      "words": 240
+    },
+    {
+      "id": "099-91-the-sun-ash-shams",
+      "number": 99,
+      "title": "91. The Sun (Ash-Shams)",
+      "words": 215
+    },
+    {
+      "id": "100-92-the-night-al-layl",
+      "number": 100,
+      "title": "92. The Night (Al-Layl)",
+      "words": 258
+    },
+    {
+      "id": "101-93-the-morning-sunlight-a-u-a",
+      "number": 101,
+      "title": "93. The Morning Sunlight (Aḍ-Ḍuḥa)",
+      "words": 194
+    },
+    {
+      "id": "102-94-uplifting-the-heart-ash-shar",
+      "number": 102,
+      "title": "94. Uplifting the Heart (Ash-Sharḥ)",
+      "words": 115
+    },
+    {
+      "id": "103-95-the-fig-at-t-n",
+      "number": 103,
+      "title": "95. The Fig (At-Tîn)",
+      "words": 122
+    },
+    {
+      "id": "104-96-the-clinging-clot-of-blood-al-alaq",
+      "number": 104,
+      "title": "96. The Clinging Clot ˹of Blood˺ (Al-’Alaq)",
+      "words": 311
+    },
+    {
+      "id": "105-97-the-night-of-glory-al-qadr",
+      "number": 105,
+      "title": "97. The Night of Glory (Al-Qadr)",
+      "words": 140
+    },
+    {
+      "id": "106-98-the-clear-proof-al-bayyinah",
+      "number": 106,
+      "title": "98. The Clear Proof (Al-Bayyinah)",
+      "words": 263
+    },
+    {
+      "id": "107-99-the-ultimate-quake-az-zalzalah",
+      "number": 107,
+      "title": "99. The ˹Ultimate˺ Quake (Az-Zalzalah)",
+      "words": 127
+    },
+    {
+      "id": "108-100-the-galloping-horses-al-diy-t",
+      "number": 108,
+      "title": "100. The Galloping ˹Horses˺ (Al-’Ȃdiyât)",
+      "words": 145
+    },
+    {
+      "id": "109-101-the-striking-disaster-al-q-riah",
+      "number": 109,
+      "title": "101. The Striking Disaster (Al-Qâri’ah)",
+      "words": 146
+    },
+    {
+      "id": "110-102-competition-for-more-gains-at-tak-th",
+      "number": 110,
+      "title": "102. Competition for More ˹Gains˺ (At-Takâthur)",
+      "words": 122
+    },
+    {
+      "id": "111-103-the-passage-of-time-al-a-r",
+      "number": 111,
+      "title": "103. The ˹Passage of˺ Time (Al-’Aṣr)",
+      "words": 84
+    },
+    {
+      "id": "112-104-the-backbiters-al-humazah",
+      "number": 112,
+      "title": "104. The Backbiters (Al-Humazah)",
+      "words": 122
+    },
+    {
+      "id": "113-105-the-elephant-al-f-l",
+      "number": 113,
+      "title": "105. The Elephant (Al-Fîl)",
+      "words": 128
+    },
+    {
+      "id": "114-106-the-people-of-quraysh-quraysh",
+      "number": 114,
+      "title": "106. ˹The People of˺ Quraysh (Quraysh)",
+      "words": 124
+    },
+    {
+      "id": "115-107-simplest-aid-al-m-n",
+      "number": 115,
+      "title": "107. ˹Simplest˺ Aid (Al-Mâ’ûn)",
+      "words": 133
+    },
+    {
+      "id": "116-108-abundant-goodness-al-kawthar",
+      "number": 116,
+      "title": "108. Abundant Goodness (Al-Kawthar)",
+      "words": 145
+    },
+    {
+      "id": "117-109-the-disbelievers-al-k-fir-n",
+      "number": 117,
+      "title": "109. The Disbelievers (Al-Kâfirûn)",
+      "words": 133
+    },
+    {
+      "id": "118-110-the-ultimate-help-an-na-r",
+      "number": 118,
+      "title": "110. The ˹Ultimate˺ Help (An-Naṣr)",
+      "words": 118
+    },
+    {
+      "id": "119-111-the-palm-fibre-rope-al-masad",
+      "number": 119,
+      "title": "111. The Palm-Fibre Rope (Al-Masad)",
+      "words": 126
+    },
+    {
+      "id": "120-112-purity-of-faith-al-ikhl",
+      "number": 120,
+      "title": "112. Purity of Faith (Al-Ikhlâṣ)",
+      "words": 86
+    },
+    {
+      "id": "121-113-the-daybreak-al-falaq",
+      "number": 121,
+      "title": "113. The Daybreak (Al-Falaq)",
+      "words": 88
+    },
+    {
+      "id": "122-114-humankind-an-n-s",
+      "number": 122,
+      "title": "114. Humankind (An-Nâs)",
+      "words": 115
+    },
+    {
+      "id": "123-thematic-indext",
+      "number": 123,
+      "title": "THEMATIC INDEXT",
+      "words": 4277
+    },
+    {
+      "id": "124-common-questions-about-islam",
+      "number": 124,
+      "title": "COMMON QUESTIONS ABOUT ISLAM",
+      "words": 3085
+    },
+    {
+      "id": "125-select-teachings-of-the-prophet-mu-ammad",
+      "number": 125,
+      "title": "SELECT TEACHINGS OF THE PROPHET MUḤAMMAD (ﷺ)",
+      "words": 318
+    },
+    {
+      "id": "126-what-they-said-about-mu-ammad",
+      "number": 126,
+      "title": "WHAT THEY SAID ABOUT MUḤAMMAD (ﷺ)",
+      "words": 33831
+    }
+  ]
+}

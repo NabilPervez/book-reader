@@ -1,0 +1,186 @@
+{
+  "id": "008-transliteration-guide",
+  "title": "TRANSLITERATION GUIDE",
+  "blocks": [
+    {
+      "t": "p",
+      "text": "Arabic letter in red, transliteration in blue, followed by an example in brackets ( ).",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ا … â ( *Fâtiḥah*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ء …' ( *Nisâ*')",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ب … b ( *Baqarah*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ت … t ( *Tîn*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ث … th ( *Kawthar*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ج … j ( *Fajr*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ح … ḥ ( *Ḥajj*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "خ … kh ( *Ikhlâṣ*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "د … d ( *Balad*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ذ … ⱬ ( *Ⱬâriyât*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ر … r ( *A’râf*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ز … z ( *Nâzi’ât*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "س … s ( *Isrâ*')",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ش … sh ( *Ḥashr*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ص … ṣ ( *’Aṣr*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ض … ḍ ( *Ḍuḥa*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ط … ṭ ( *Ṭâ-Hâ*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ظ … ẓ ( *Ẓihâr*)",
+      "page": 28
+    },
+    {
+      "t": "p",
+      "text": "ع … ’ ( *An’âm*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "غ … gh ( *Ghâfir*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ف … f ( *Furqân*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ق … q ( *Qalam*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ك … k ( *Kahf*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ل … l ( *’Alaq*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "م … m ( *Mariam*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ن … n ( *Nûḥ*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ه … h ( *Humazah*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "و … w ( *Wâqi’ah*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "و ُـ … û ( *Burûj*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ي … y ( *Yâ-Sîn*)",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ي ِـ … î ( *Ibrâhîm*)َ",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ـ … a ( *Shams*)ِ",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ـ … i ( *Jinn*)ُ",
+      "page": 29
+    },
+    {
+      "t": "p",
+      "text": "ـ … u ( *Mulk*)",
+      "page": 29
+    },
+    {
+      "t": "quote",
+      "text": "*** MAP OF ARABIA AND AREA IN THE 7th CENTURY",
+      "page": 29
+    }
+  ]
+}
